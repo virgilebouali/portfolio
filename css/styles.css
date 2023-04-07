@@ -228,7 +228,7 @@ a:hover {
 
 .second_section {
 
-    background-image: url(/home/student/WattS1/revisiondayS1/images/background5.jpg);
+    background-image: url(../images/background5.jpg);
     display: flex;
     padding: 2%;
     background-repeat: no-repeat;
