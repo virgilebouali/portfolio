@@ -10,6 +10,7 @@ body {
     background-image: url(../images/background4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    height:50%;
 }
 
 .main_header {
@@ -91,7 +92,7 @@ a {
     flex-direction: row;
     padding-top: 5%;
     margin-top: 2%;
-    padding-bottom: 5%;
+    padding-bottom: 15%;
     border-bottom: 1px solid #fff;
 
 }
@@ -230,7 +231,8 @@ a:hover {
 
     background-image: url(../images/background5.jpg);
     display: flex;
-    padding: 2%;
+    padding: 1%;
+    padding-bottom: 5%;
     background-repeat: no-repeat;
     background-image: cover;
 }
