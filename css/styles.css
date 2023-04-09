@@ -444,6 +444,8 @@ a:hover {
     animation-delay: 0s;
     animation-iteration-count: 1;
     animation-direction: normal;
+    filter: grayscale(60%);
+    -webkit-filter: grayscale(60%);
 
 }
 
