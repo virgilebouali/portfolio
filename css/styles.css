@@ -87,6 +87,7 @@ html,body{
     animation-delay: 0s;
     animation-iteration-count: 1;
     animation-direction: normal;
+    z-index: 1;
 
 
 }
@@ -380,7 +381,15 @@ a:hover {
     margin-top: 3%;
     width: 70%
 }
+.moving_image {
 
+    width: 50%;
+    height: 50%;
+    left:-300px;
+    position: absolute;
+    top:-193px;
+
+}
 .photo {
 
     width: 50%;
@@ -583,6 +592,11 @@ body {
     margin: 2%;
 }
 
+.main_section_text_2 {
+
+    padding: 10%;
+    font-size: 1.5em;
+}
 
 .second_section {
 
@@ -665,6 +679,11 @@ body {
 .main_section_text_2 {
 
     margin-left: 15%;
+}
+
+.main_section_text {
+
+    font-size: 2.2em;;
 }
 
 .work_exemples {
